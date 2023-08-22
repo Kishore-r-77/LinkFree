@@ -1,45 +1,45 @@
-# [1.175.0](https://github.com/EddieHubCommunity/LinkFree/compare/v1.174.1...v1.175.0) (2023-08-16)
-
-
-### Features
-
-* tag highlighting in profile card on search ([#8419](https://github.com/EddieHubCommunity/LinkFree/issues/8419)) ([f33a265](https://github.com/EddieHubCommunity/LinkFree/commit/f33a2650453cf13d6e39c666c8a799685ba620f9))
-
-
-
-## [1.174.1](https://github.com/EddieHubCommunity/LinkFree/compare/v1.174.0...v1.174.1) (2023-08-15)
+## [1.178.5](https://github.com/EddieHubCommunity/LinkFree/compare/v1.178.4...v1.178.5) (2023-08-22)
 
 
 ### Bug Fixes
 
-* homepage repo feature ([#8657](https://github.com/EddieHubCommunity/LinkFree/issues/8657)) ([18fa723](https://github.com/EddieHubCommunity/LinkFree/commit/18fa72392c0e17f724e6a176fa1e226f1c273221))
+* notification removed after set time ([#8607](https://github.com/EddieHubCommunity/LinkFree/issues/8607)) ([a74cd9e](https://github.com/EddieHubCommunity/LinkFree/commit/a74cd9e95fede2e554344575b6572b93b218b4a8))
 
 
 
-# [1.174.0](https://github.com/EddieHubCommunity/LinkFree/compare/v1.173.5...v1.174.0) (2023-08-15)
-
-
-### Features
-
-* store profile referrer ([#8654](https://github.com/EddieHubCommunity/LinkFree/issues/8654)) ([f0643ac](https://github.com/EddieHubCommunity/LinkFree/commit/f0643ac445457b72c51d1d50a8feea6674fa8e59))
-
-
-
-## [1.173.5](https://github.com/EddieHubCommunity/LinkFree/compare/v1.173.4...v1.173.5) (2023-08-15)
+## [1.178.4](https://github.com/EddieHubCommunity/LinkFree/compare/v1.178.3...v1.178.4) (2023-08-22)
 
 
 ### Bug Fixes
 
-* fallback image ([#8644](https://github.com/EddieHubCommunity/LinkFree/issues/8644)) ([6d4913c](https://github.com/EddieHubCommunity/LinkFree/commit/6d4913c1b4c6da96f4ef6941f0ec4f6a408b1c8d))
+* missing items now have a space between ([#8676](https://github.com/EddieHubCommunity/LinkFree/issues/8676)) ([6c83c18](https://github.com/EddieHubCommunity/LinkFree/commit/6c83c1898be55055376157c00eea972a55f47430))
 
 
 
-## [1.173.4](https://github.com/EddieHubCommunity/LinkFree/compare/v1.173.3...v1.173.4) (2023-08-14)
+## [1.178.3](https://github.com/EddieHubCommunity/LinkFree/compare/v1.178.2...v1.178.3) (2023-08-22)
 
 
 ### Bug Fixes
 
-* failing to add repo with trailing slash ([#8636](https://github.com/EddieHubCommunity/LinkFree/issues/8636)) ([d337de3](https://github.com/EddieHubCommunity/LinkFree/commit/d337de36d8094e51b397b1cd4622edbf0978ca67))
+* event test ([#8708](https://github.com/EddieHubCommunity/LinkFree/issues/8708)) ([597d880](https://github.com/EddieHubCommunity/LinkFree/commit/597d8800cda3c3ac95aba0ead57102ae3d3f5b26))
+
+
+
+## [1.178.2](https://github.com/EddieHubCommunity/LinkFree/compare/v1.178.1...v1.178.2) (2023-08-22)
+
+
+### Bug Fixes
+
+* label for models updates ([#8683](https://github.com/EddieHubCommunity/LinkFree/issues/8683)) ([4884c1f](https://github.com/EddieHubCommunity/LinkFree/commit/4884c1f4bca9999a0be5da54a1acfaadce9fe16a))
+
+
+
+## [1.178.1](https://github.com/EddieHubCommunity/LinkFree/compare/v1.178.0...v1.178.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* stop keydown event propagation on input ([#8685](https://github.com/EddieHubCommunity/LinkFree/issues/8685)) ([3470121](https://github.com/EddieHubCommunity/LinkFree/commit/347012180d7ad5d328bdbc6d75a713a283460fa6))
 
 
 
